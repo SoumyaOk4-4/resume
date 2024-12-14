@@ -6,7 +6,7 @@ const Header = () => {
     <header style={styles.header}>
       <h1>Soumya Chakraborty</h1>
       <br/>
-      <p>Full Stack Developer (MERN) | Passionate about Web Development</p>
+      <p>Passionate about Web Development, Ethical Hacking, Linux</p>
     </header>
   );
 };
