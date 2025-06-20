@@ -5,25 +5,28 @@ const projects = [
     name: 'NekoChan',
     description: 'Social Media About Cats and for Cat Lovers.',
     githubLink: 'https://github.com/SoumyaOk4-4/neko-chan-app',
-    livelink: 'https://neko-chan-senpai.netlify.app/'
+    livelink: 'https://neko-chan-senpai.netlify.app/',
   },
   {
     name: 'EquiSource',
     description: 'A Rental E-Commerce Platform for Our College.',
     githubLink: 'https://github.com/SoumyaOk4-4/EquiSource',
-    livelink: 'https://equisource.netlify.app/'
+    livelink: 'https://equisource.netlify.app/',
   },
   {
     name: 'REWind',
     description: 'A Visual Novel Game Made about Life, Expectations and Reality.',
-    
-    livelink: 'https://moshimoshi-04.itch.io/rewind'
+    livelink: 'https://moshimoshi-04.itch.io/rewind',
   },
   {
     name: 'EquationSolver',
     description: 'An Android App to Solve Linear Equations.',
     githubLink: 'https://github.com/SoumyaOk4-4/Equation-Solver-Android-Application',
-    
+  },
+  {
+    name: 'GameSpace',
+    description: 'A Game Searching Platform Using Steam APIs',
+    githubLink: 'https://github.com/SoumyaOk4-4/GameSpace',
   },
 ];
 
